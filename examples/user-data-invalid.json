@@ -1,0 +1,14 @@
+{
+  "id": -1,
+  "username": "ab",
+  "email": "invalid-email",
+  "profile": {
+    "firstName": "John",
+    "age": 200
+  },
+  "roles": ["user", "user"],
+  "settings": {
+    "theme": "blue"
+  },
+  "extraField": "not allowed"
+}
